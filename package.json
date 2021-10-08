@@ -1,0 +1,22 @@
+{
+  "name": "smart-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hifi-Bridge/Smart-Contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hifi-Bridge/Smart-Contracts/issues"
+  },
+  "homepage": "https://github.com/Hifi-Bridge/Smart-Contracts#readme",
+  "dependencies": {
+    "truffle": "^5.4.13"
+  }
+}
